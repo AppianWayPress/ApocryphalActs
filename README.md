@@ -10,9 +10,9 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 ### Acts of John (Acta Joannis)
 
-* Translated from: Eusebius, _Eusebii Caesaerensis Opera_. Teubner:Leipzig, 1867.
-* The source edition of _Praeperatio Evangelica_ was retrieved from the Github repository [First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek).
-  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg2018/tlg001/tlg2018.tlg001.1st1K-grc1.xml) is available from the Github repo.
+* Translated from: _Acta Joannis, Acta apostolorum apocrypha_. Mendelssohn:Leipzig, 1898.
+* The source edition of _Acta Joannis_ was retrieved from the Github repository [First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek).
+  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg0317/tlg001/tlg0317.tlg001.1st1K-grc1.xml) is available from the Github repo.
 * For more information: https://opengreekandlatin.github.io/First1KGreek/. 
 
 #### Files
