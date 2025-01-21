@@ -17,8 +17,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-ActaJoannis.pdf)
-* [ePub](epub/epub-ActaJoannis.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaJoannis.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaJoannis.epub)
 
 ### Acts of Barnabas (Acta Barnabae)
 
@@ -29,8 +29,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-ActaBarnabae.pdf)
-* [ePub](epub/epub-ActaBarnabae.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaBarnabae.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaBarnabae.epub)
 
 ### Acts of Phillip (Acta Philippi)
 
@@ -42,8 +42,8 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files
 
-* [Diglot (PDF)](diglot/diglot-ActaPhilippi.pdf)
-* [ePub](epub/epub-ActaPhilippi.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaPhilippi.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaPhilippi.epub)
 
 ### Acts of Thomas (Acta Thomae)
 
@@ -54,5 +54,5 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 #### Files 
 
-* [Diglot (PDF)](diglot/diglot-ActaThomae.pdf)
-* [ePub](epub/epub-ActaTomae.epub)
+* [Diglot (PDF)](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaThomae.pdf)
+* [ePub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaTomae.epub)
