@@ -36,7 +36,7 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 * Translated from: _Acta Philippi et Acta Thomae accedunt Acta Barnabae_. Hermannus Mendelssohn:Leipzig, 1903.
 * The source edition of Πράξεις τοῦ ἁγίου καὶ πανευφήμου ἀποστόλου Φιλίππου was retrieved from the Github repository [First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek).
-  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/urn/cts/urn.cts.greekLit.tlg2948.tlg001.1st1K-grc1.xml) is available from the Github repo.
+  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg2948/tlg001/tlg2948.tlg001.1st1K-grc1.xml) is available from the Github repo.
 * For more information: https://opengreekandlatin.github.io/First1KGreek/. 
 
 
@@ -49,7 +49,7 @@ Please note, as indicated [elsewhere](https://github.com/AppianWayPress), that t
 
 * Translated from: _Acta Philippi et Acta Thomae accedunt Acta Barnabae_. Hermannus Mendelssohn:Leipzig, 1903.
 * The source edition of Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ was retrieved from the Github repository [First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek). 
-  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/urn/cts/urn.cts.greekLit.tlg2038.tlg001.1st1K-grc1.xml) is available from the Github repo.
+  * The [Greek edition this translation uses as its source text](https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg2038/tlg001/tlg2038.tlg001.1st1K-grc1.xml) is available from the Github repo.
 * For more information: https://opengreekandlatin.github.io/First1KGreek/. 
 
 #### Files 
